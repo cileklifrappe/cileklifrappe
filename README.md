@@ -6,4 +6,4 @@
 
 ## 🌍 Social Media
 - [Discord](https://discordapp.com/users/963436710534979594)
-- [Instagram](https://www.instagram.com/sayinciko.xx)
+- [Instagram](https://www.instagram.com/sayinciko)
