@@ -52,3 +52,6 @@ module.exports = untitled;
 <h2 align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=cileklifrappe&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true" width="%150" height="150px" alt="stats" align="center" />
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cileklifrappe&layout=compact&show_icons=true&theme=midnight-purple&hide_border=true"width="%100" height="150px" align="center" />
+
+
+![snake gif](https://github.com/cileklifrappe/cileklifrappe/blob/output/github-contribution-grid-snake.gif)
