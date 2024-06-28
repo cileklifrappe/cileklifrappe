@@ -19,7 +19,7 @@ module.exports = pepe;
   </p>
 </a>
 <h2 align="center">
-<img src="https://komarev.com/ghpvc/?username=cileklifrappe&color=dc143c"/>
+<img src="[https://komarev.com/ghpvc/?username=cileklifrappe&color=dc143c](https://komarev.com/ghpvc/?username=cileklifrappe&color=dc143c)"/>
 </div>
 
 <div align="center">
