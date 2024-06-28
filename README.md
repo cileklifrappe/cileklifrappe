@@ -12,15 +12,6 @@ this.discordId = "460010137994788864"
 module.exports = pepe;
 ```
 
-<h2 align="center">
-
-  <p align=center>
-    <img src="https://github-widgetbox.vercel.app/api/profile?username=cileklifrappe&data=followers,repositories,stars,commits&theme=darkmode" alt="">
-  </p>
-</a>
-<h2 align="center">
-<img src="[https://komarev.com/ghpvc/?username=cileklifrappe&color=dc143c](https://komarev.com/ghpvc/?username=cileklifrappe&color=dc143c)"/>
-</div>
 
 <div align="center">
     <a href="https://discord.com/users/460010137994788864" title="Discord Profile"><img src="https://lanyard.cnrad.dev/api/460010137994788864"></a>
